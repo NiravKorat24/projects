@@ -1,3 +1,3 @@
 # projects
 
-this repo represent my all learning projects.
+this repo represent my all basic python projects.
