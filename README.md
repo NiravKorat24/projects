@@ -9,7 +9,7 @@
   <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; border: 1px solid #e1e4e8;">
     <h3>🎲 Number Guesser</h3>
     <p>Guess the secret number game with AI hints</p>
-    <a href="numberguesser.py">View Code</a>
+    <a href="guessnum.py">View Code</a>
   </div>
   
   <!-- Project Card 2 -->
