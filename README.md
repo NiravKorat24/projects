@@ -35,6 +35,3 @@
 # Clone the repo
 git clone https://github.com/NiravKorat24/py-projects.git
 
-# Navigate to any project folder
-cd project-folder
-python script_name.py
