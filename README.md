@@ -1,16 +1,6 @@
 
-# 🎯 Mini Python Project 
+# 🐍 Python Playground - 🎯Mini Projects Collection
 
-
-# 🐍 Python Playground - Mini Projects Collection
-
-<div align="center">
-  <img src="https://placehold.co/1200x400/0059ff/EEE?text=Python+Mini+Projects+Galaxy" alt="Python Projects Banner" style="border-radius: 10px;"/>
-</div>
-
-A curated collection of fun, beginner-friendly Python projects to sharpen your coding skills!
-
----
 
 ## 🌟 Featured Projects
 
@@ -19,21 +9,21 @@ A curated collection of fun, beginner-friendly Python projects to sharpen your c
   <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; border: 1px solid #e1e4e8;">
     <h3>🎲 Number Guesser</h3>
     <p>Guess the secret number game with AI hints</p>
-    <a href="number_guesser.py">View Code</a>
+    <a href="numberguesser.py">View Code</a>
   </div>
   
   <!-- Project Card 2 -->
   <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; border: 1px solid #e1e4e8;">
-    <h3>📝 To-Do List</h3>
-    <p>Simple terminal task manager</p>
-    <a href="todo_list.py">View Code</a>
+    <h3>🪨🧻✂ RockPaperScissors</h3>
+    <p> Play amazing game with robot</p>
+    <a href="RockPaperScissors.py">View Code</a>
   </div>
   
   <!-- Project Card 3 -->
   <div style="background: #f8f9fa; border-radius: 8px; padding: 15px; border: 1px solid #e1e4e8;">
-    <h3>🌦️ Weather App</h3>
+    <h3>📖 fun math</h3>
     <p>Real-time weather fetcher</p>
-    <a href="weather_app.py">View Code</a>
+    <a href="funmath.py">View Code</a>
   </div>
 </div>
 
@@ -43,7 +33,7 @@ A curated collection of fun, beginner-friendly Python projects to sharpen your c
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/python-mini-projects.git
+git clone https://github.com/NiravKorat24/py-projects.git
 
 # Navigate to any project folder
 cd project-folder
